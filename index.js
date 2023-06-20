@@ -26,3 +26,7 @@ class claseA {
 class claseB {
   constructor() { }
 }
+
+class claseC {
+  constructor() { }
+}
