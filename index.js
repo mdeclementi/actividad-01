@@ -21,8 +21,7 @@ class claseA {
     this.foo = foo;
     this.bar = bar;
   }
-}
-
+  
 class claseB {
   constructor() { }
 }
