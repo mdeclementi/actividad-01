@@ -41,3 +41,4 @@ Se requiere un navegador con herramientas de desarrollador:
 `formatter.toLowerString(“I’m Lucas”) // Result: i’m lucas`
 
 # actividad-01
+# actividad-01
