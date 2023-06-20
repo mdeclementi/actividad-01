@@ -15,3 +15,14 @@ import "./ejercicio4.js";
 // Ejercicio 6
 
 import "./ejercicio6.js";
+
+class claseA {
+  constructor(foo, bar) {
+    this.foo = foo;
+    this.bar = bar;
+  }
+}
+
+class claseB {
+  constructor() { }
+}
