@@ -17,9 +17,10 @@ import "./ejercicio4.js";
 import "./ejercicio6.js";
 
 class claseA {
-  constructor(foo, bar) {
+  constructor(foo, bar, lorem) {
     this.foo = foo;
     this.bar = bar;
+    this.lore = 'lorem ipsum' ;
   }
   
 class claseB {
